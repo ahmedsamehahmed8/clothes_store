@@ -3,7 +3,7 @@ import { Stack } from "@mui/material";
 import axios from "axios";
 const categories = async () => {
   const s = await axios
-    .get(`http://localhost:3001/categories`)
+    .get(`https://josn-server-clothes.vercel.app/categories`)
     .then((res) => res.data);
   return (
     <>
