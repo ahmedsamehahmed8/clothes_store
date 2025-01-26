@@ -1,19 +1,19 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-![screenshot](clothes-store/1.jpg)
-![screenshot](clothes-store/2.jpg)
-![screenshot](clothes-store/3.jpg)
-![screenshot](clothes-store/4.jpg)
-![screenshot](clothes-store/5.jpg)
-![screenshot](clothes-store/6.jpg)
-![screenshot](clothes-store/7.jpg)
-![screenshot](clothes-store/8.jpg)
-![screenshot](clothes-store/9.jpg)
-![screenshot](clothes-store/10.jpg)
-![screenshot](clothes-store/11.jpg)
-![screenshot](clothes-store/12.jpg)
-![screenshot](clothes-store/13.jpg|)
-![screenshot](clothes-store/14.jpg)
+![screenshot](clothes-store/1.png)
+![screenshot](clothes-store/2.png)
+![screenshot](clothes-store/3.png)
+![screenshot](clothes-store/4.png)
+![screenshot](clothes-store/5.png)
+![screenshot](clothes-store/6.png)
+![screenshot](clothes-store/7.png)
+![screenshot](clothes-store/8.png)
+![screenshot](clothes-store/9.png)
+![screenshot](clothes-store/10.png)
+![screenshot](clothes-store/11.png)
+![screenshot](clothes-store/12.png)
+![screenshot](clothes-store/13.png|)
+![screenshot](clothes-store/14.png)
 
 ## Getting Started
 
