@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ![screenshot](clothes-store/10.png)
 ![screenshot](clothes-store/11.png)
 ![screenshot](clothes-store/12.png)
-![screenshot](clothes-store/13.png|)
+![screenshot](clothes-store/13.png)
 ![screenshot](clothes-store/14.png)
 
 ## Getting Started
